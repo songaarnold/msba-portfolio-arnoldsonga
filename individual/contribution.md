@@ -1,0 +1,5 @@
+I contributed most to the analytical workflow by cleaning the data, exploring key churn drivers, and helping shape the modeling approach. I helped dive deep into XBoost modeling and creating SHAP plots. In addition, I also supported the team by structuring the insights into a clear, precise and executive-ready narrative.
+
+I advocated for focusing on interpretability rather than only model accuracy. In a business setting, stakeholders need to understand why customers churn, not just which customers are at risk. This helped us choose models and visualizations that were easier to explain and defend.
+
+Personally, I learned the importance of aligning technical work with business impact and communicating insights in a simple, compelling way. With more time, I would focus more on feature engineering and test additional modeling techniques to see if we could boost performance without sacrificing interpretability.
